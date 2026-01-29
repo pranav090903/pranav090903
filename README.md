@@ -31,13 +31,18 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav090903&show_icons=true&theme=radical" height="195px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav090903&layout=compact&theme=radical" height="195px"/>
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=pranav090903&theme=radical" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav090903&show_icons=true&theme=radical"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=pranav090903&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav20004&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranav090903&repo=REPO_NAME&theme=radical" />
 </p>
 
 ---
