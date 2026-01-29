@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav0909034&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pranav090903&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 
@@ -16,7 +16,7 @@
 
 ### 💡 What I'm up to
 - 🎓 4th Yr CSE • AKTU
-- 🤖 Building GenAI/ML projects using Gemini, OpenCV, Python, JavaScript
+- 🤖 Building GenAI/ML projects using Gemini, Python, JavaScript
 - ⚒️ Grinding DSA + System Design
 - ✨ Side quest: Becoming a better engineer every  day
 
@@ -26,7 +26,7 @@
 
 | 🧩 Languages   | ☕ Framework / Web | 🤖 ML / GenAI            | 🔧 Tools         |
 |---------------|-------------------|---------------------------|------------------|
-| Python, Java, JS | React, Flask | scikit-learn, Gemini, OpenCV | Git/GitHub,  MySQL |
+| Python, Java, JS | React, FastAPI | scikit-learn, Gemini    | Git/GitHub,  MySQL |
 
 ---
 
@@ -47,7 +47,7 @@
 <p align="center">
   <a href="mailto:mpranav124mishra@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pranav-mishra-198902283//"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://keshav01.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://portfolio-edpu-cqg6nxk7z-pranav090903s-projects.vercel.app//"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
