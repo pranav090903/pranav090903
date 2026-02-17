@@ -16,7 +16,7 @@
 
 ### 💡 What I'm up to
 - 🎓 4th Yr CSE • AKTU
-- 🤖 Building GenAI/ML projects using Gemini, Python, JavaScript
+- 🤖 Building GenAI/ML projects using langchain, Python, JavaScript
 - ⚒️ Grinding DSA + System Design
 - ✨ Side quest: Becoming a better engineer every  day
 
@@ -24,9 +24,9 @@
 
 ###  Tech Stack
 
-| 🧩 Languages   | ☕ Framework / Web | 🤖 ML / GenAI            | 🔧 Tools         |
-|---------------|-------------------|---------------------------|------------------|
-| Python, Java, JS | React, FastAPI | scikit-learn, Gemini    | Git/GitHub,  MySQL |
+| 🧩 Languages  |☕Framework / Web| 🤖 ML / GenAI                | 🔧 Tools        |
+|---------------|-------------------|----------------------------- |------------------|
+| Python, Java, JS | React, FastAPI |scikit-learn, Gemini,langchain| Git/GitHub, MySQL|
 
 ---
 
